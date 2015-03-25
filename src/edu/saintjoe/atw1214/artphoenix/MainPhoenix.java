@@ -1,5 +1,5 @@
 package edu.saintjoe.atw1214.artphoenix;
-
+// This will be my first true change commit
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
